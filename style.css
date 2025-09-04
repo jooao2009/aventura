@@ -1,0 +1,33 @@
+body {
+   background-color: aliceblue; 
+    color: chartreuse;
+    font-family: "bai jamjure", sans-serif;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button  {
+   background-color: black;
+   color: black;
+   font-family: "bai jajure", sans-serif
+}
+
+.passo  {
+    display: nome;
+}
+
+.passo .ativo  {
+    display: block;
+}
+
+main  {
+    text-align: center;
+    max-width: 90;
+}
+
+img{
+    max-width: 90%;
+}
