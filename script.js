@@ -15,11 +15,10 @@ if(proxmoelemento){
   }else {
 console.error(`Elemento com ID "${porximoPasso}não encontrado,`)
   }
-  
-
+ 
 
   })
-});
+ });
 
 // Reinicia o jogo ao clicar no botão de reinício
 if (reiniciarBtn) {
